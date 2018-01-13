@@ -1,3 +1,6 @@
+> **DEPRECATED** - This project was built as POW that you can change your skin using the packet handler. It was built for patch 7.24 and won't work anymore. There is a much more consistent way to change your skin if you really want this, see [this post](https://www.unknowncheats.me/forum/1966944-post7.html).
+
+
 # QuickSkin
 League of Legends Skin Changer (Faker) without touching game files.
 
